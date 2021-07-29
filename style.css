@@ -1,0 +1,61 @@
+/*nav input {
+	width: 200px;
+}
+
+hr {
+	width: 100px;
+	border-top: 3px solid #dc3545;
+}*/
+
+.awal {
+	margin-top: 200px;
+}
+
+.navbar {
+	background-color: #fff;
+}
+
+.navs {
+	background-color: #54138A;
+}
+
+.bege {
+	background-color: #54138A;
+}
+
+
+
+.card-img-top1 {
+	width: 250px;
+}
+
+
+/*background content*/
+.fot {
+	background-color: #f3f4f5; 
+}
+
+
+.kelas {
+	font-size: 50px;
+}
+
+/*footer*/
+.col-sm-2{
+	color: #fff;
+}
+
+strong {
+	color: #fff;
+}
+.fot2 {
+	background-color: #54138A;
+	/* ungu muda*/
+}
+
+.footerterakhir {
+	background-color: #4B345E;
+	color: #fff;
+	margin-top: -18px;
+}
+
